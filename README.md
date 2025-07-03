@@ -1,5 +1,5 @@
-![WhatsApp Image 2025-07-03 at 18 54 04_131fe11e](https://github.com/user-attachments/assets/a954b9b8-adc5-42a0-b3a0-285654dc36d0)
 ![WhatsApp Image 2025-02-16 at 23 58 22_3f4e274f](https://github.com/user-attachments/assets/e82d28c8-75db-484c-925a-d49bd2404452) 
+
 
 # 🤖 Robocon CAD Model – Robotics Design Project
 
@@ -25,7 +25,7 @@ The robot is modularly divided into three key systems:
 - Used **linkages**, **servo mounts**, and **actuation-friendly geometry**
 
 ---
-
+![WhatsApp Image 2025-07-03 at 18 54 04_131fe11e](https://github.com/user-attachments/assets/a954b9b8-adc5-42a0-b3a0-285654dc36d0)
 ## 🎯 Objectives
 
 - To design a complete robot that meets Robocon task and motion requirements  
