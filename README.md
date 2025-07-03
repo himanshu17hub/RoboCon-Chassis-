@@ -73,7 +73,6 @@ This model was developed under the **Robotics Club, IIT Ropar**, as part of the 
 **Himanshu Verma**  
 Undergraduate Student, IIT Ropar  
 🚀 CAD Designer | Robotics Enthusiast | Additive Manufacturing Learner  
-[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/himanshu-verma-18329728a))  [Email](himanshu.workspace21@gmail.com)
 
 ---
 
